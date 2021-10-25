@@ -1,0 +1,954 @@
+[
+  {
+    "rank": 1,
+    "ranking": 1,
+    "country": "Venezuela",
+    "crimeIndex": "83.7600",
+    "pop2021": "28704.9540"
+  },
+  {
+    "rank": 2,
+    "ranking": 2,
+    "country": "Papua New Guinea",
+    "crimeIndex": "80.7900",
+    "pop2021": "9119.0100"
+  },
+  {
+    "rank": 3,
+    "ranking": 3,
+    "country": "South Africa",
+    "crimeIndex": "76.8600",
+    "pop2021": "60041.9940"
+  },
+  {
+    "rank": 4,
+    "ranking": 4,
+    "country": "Afghanistan",
+    "crimeIndex": "76.3100",
+    "pop2021": "39835.4280"
+  },
+  {
+    "rank": 5,
+    "ranking": 5,
+    "country": "Honduras",
+    "crimeIndex": "74.5400",
+    "pop2021": "10062.9910"
+  },
+  {
+    "rank": 6,
+    "ranking": 6,
+    "country": "Trinidad And Tobago",
+    "crimeIndex": "71.6300",
+    "pop2021": "1403.3750"
+  },
+  {
+    "rank": 7,
+    "ranking": 7,
+    "country": "Guyana",
+    "crimeIndex": "68.7400",
+    "pop2021": "790.3260"
+  },
+  {
+    "rank": 8,
+    "ranking": 8,
+    "country": "El Salvador",
+    "crimeIndex": "67.7900",
+    "pop2021": "6518.4990"
+  },
+  {
+    "rank": 9,
+    "ranking": 9,
+    "country": "Brazil",
+    "crimeIndex": "67.4900",
+    "pop2021": "213993.4370"
+  },
+  {
+    "rank": 10,
+    "ranking": 10,
+    "country": "Jamaica",
+    "crimeIndex": "67.4200",
+    "pop2021": "2973.4630"
+  },
+  {
+    "rank": 11,
+    "ranking": 11,
+    "country": "Syria",
+    "crimeIndex": "67.1800",
+    "pop2021": "18275.7020"
+  },
+  {
+    "rank": 12,
+    "ranking": 12,
+    "country": "Peru",
+    "crimeIndex": "66.7200",
+    "pop2021": "33359.4180"
+  },
+  {
+    "rank": 13,
+    "ranking": 13,
+    "country": "Angola",
+    "crimeIndex": "66.4800",
+    "pop2021": "33933.6100"
+  },
+  {
+    "rank": 14,
+    "ranking": 14,
+    "country": "Cameroon",
+    "crimeIndex": "65.2400",
+    "pop2021": "27224.2650"
+  },
+  {
+    "rank": 15,
+    "ranking": 15,
+    "country": "Namibia",
+    "crimeIndex": "65.2100",
+    "pop2021": "2587.3440"
+  },
+  {
+    "rank": 16,
+    "ranking": 16,
+    "country": "Nigeria",
+    "crimeIndex": "64.0600",
+    "pop2021": "211400.7080"
+  },
+  {
+    "rank": 17,
+    "ranking": 17,
+    "country": "Bangladesh",
+    "crimeIndex": "63.9000",
+    "pop2021": "166303.4980"
+  },
+  {
+    "rank": 18,
+    "ranking": 18,
+    "country": "Argentina",
+    "crimeIndex": "63.8200",
+    "pop2021": "45605.8260"
+  },
+  {
+    "rank": 19,
+    "ranking": 19,
+    "country": "Puerto Rico",
+    "crimeIndex": "62.8400",
+    "pop2021": "2828.2550"
+  },
+  {
+    "rank": 20,
+    "ranking": 20,
+    "country": "Bahamas",
+    "crimeIndex": "62.0600",
+    "pop2021": "396.9130"
+  },
+  {
+    "rank": 21,
+    "ranking": 21,
+    "country": "Libya",
+    "crimeIndex": "61.7800",
+    "pop2021": "6958.5320"
+  },
+  {
+    "rank": 22,
+    "ranking": 22,
+    "country": "Dominican Republic",
+    "crimeIndex": "61.0200",
+    "pop2021": "10953.7030"
+  },
+  {
+    "rank": 23,
+    "ranking": 23,
+    "country": "Kenya",
+    "crimeIndex": "60.1400",
+    "pop2021": "54985.6980"
+  },
+  {
+    "rank": 24,
+    "ranking": 24,
+    "country": "Belarus",
+    "crimeIndex": "59.5800",
+    "pop2021": "9442.8620"
+  },
+  {
+    "rank": 25,
+    "ranking": 25,
+    "country": "Zimbabwe",
+    "crimeIndex": "59.3000",
+    "pop2021": "15092.1710"
+  },
+  {
+    "rank": 26,
+    "ranking": 26,
+    "country": "Guatemala",
+    "crimeIndex": "58.6700",
+    "pop2021": "18249.8600"
+  },
+  {
+    "rank": 27,
+    "ranking": 27,
+    "country": "Bolivia",
+    "crimeIndex": "57.7700",
+    "pop2021": "11832.9400"
+  },
+  {
+    "rank": 28,
+    "ranking": 28,
+    "country": "Fiji",
+    "crimeIndex": "57.6200",
+    "pop2021": "902.9060"
+  },
+  {
+    "rank": 29,
+    "ranking": 29,
+    "country": "Malaysia",
+    "crimeIndex": "57.2900",
+    "pop2021": "32776.1940"
+  },
+  {
+    "rank": 30,
+    "ranking": 31,
+    "country": "Colombia",
+    "crimeIndex": "56.8700",
+    "pop2021": "51265.8440"
+  },
+  {
+    "rank": 31,
+    "ranking": 30,
+    "country": "Kyrgyzstan",
+    "crimeIndex": "56.8700",
+    "pop2021": "6628.3560"
+  },
+  {
+    "rank": 32,
+    "ranking": 32,
+    "country": "Uganda",
+    "crimeIndex": "56.1200",
+    "pop2021": "47123.5310"
+  },
+  {
+    "rank": 33,
+    "ranking": 33,
+    "country": "Somalia",
+    "crimeIndex": "56.0400",
+    "pop2021": "16359.5040"
+  },
+  {
+    "rank": 34,
+    "ranking": 34,
+    "country": "Mongolia",
+    "crimeIndex": "56.0100",
+    "pop2021": "3329.2890"
+  },
+  {
+    "rank": 35,
+    "ranking": 35,
+    "country": "Tanzania",
+    "crimeIndex": 56,
+    "pop2021": "61498.4370"
+  },
+  {
+    "rank": 36,
+    "ranking": 36,
+    "country": "Maldives",
+    "crimeIndex": "55.3400",
+    "pop2021": "543.6170"
+  },
+  {
+    "rank": 37,
+    "ranking": 37,
+    "country": "Ecuador",
+    "crimeIndex": "55.2300",
+    "pop2021": "17888.4750"
+  },
+  {
+    "rank": 38,
+    "ranking": 38,
+    "country": "Costa Rica",
+    "crimeIndex": "54.2200",
+    "pop2021": "5139.0520"
+  },
+  {
+    "rank": 39,
+    "ranking": 39,
+    "country": "Mexico",
+    "crimeIndex": "54.1900",
+    "pop2021": "130262.2160"
+  },
+  {
+    "rank": 40,
+    "ranking": 40,
+    "country": "Kazakhstan",
+    "crimeIndex": "53.7700",
+    "pop2021": "18994.9620"
+  },
+  {
+    "rank": 41,
+    "ranking": 41,
+    "country": "Chile",
+    "crimeIndex": "53.4200",
+    "pop2021": "19212.3610"
+  },
+  {
+    "rank": 42,
+    "ranking": 42,
+    "country": "Botswana",
+    "crimeIndex": "52.9800",
+    "pop2021": "2397.2410"
+  },
+  {
+    "rank": 43,
+    "ranking": 43,
+    "country": "Algeria",
+    "crimeIndex": "52.0300",
+    "pop2021": "44616.6240"
+  },
+  {
+    "rank": 44,
+    "ranking": 44,
+    "country": "France",
+    "crimeIndex": "51.9900",
+    "pop2021": "65426.1790"
+  },
+  {
+    "rank": 45,
+    "ranking": 45,
+    "country": "Uruguay",
+    "crimeIndex": "51.7300",
+    "pop2021": "3485.1510"
+  },
+  {
+    "rank": 46,
+    "ranking": 46,
+    "country": "Cambodia",
+    "crimeIndex": "51.1300",
+    "pop2021": "16946.4380"
+  },
+  {
+    "rank": 47,
+    "ranking": 47,
+    "country": "Belize",
+    "crimeIndex": "50.3900",
+    "pop2021": "404.9140"
+  },
+  {
+    "rank": 48,
+    "ranking": 48,
+    "country": "Iran",
+    "crimeIndex": "49.3800",
+    "pop2021": "85028.7590"
+  },
+  {
+    "rank": 49,
+    "ranking": 49,
+    "country": "Paraguay",
+    "crimeIndex": "49.3700",
+    "pop2021": "7219.6380"
+  },
+  {
+    "rank": 50,
+    "ranking": 50,
+    "country": "Ethiopia",
+    "crimeIndex": "49.3000",
+    "pop2021": "117876.2270"
+  },
+  {
+    "rank": 51,
+    "ranking": 51,
+    "country": "Mauritius",
+    "crimeIndex": "48.8800",
+    "pop2021": "1273.4330"
+  },
+  {
+    "rank": 52,
+    "ranking": 52,
+    "country": "Morocco",
+    "crimeIndex": "48.6600",
+    "pop2021": "37344.7950"
+  },
+  {
+    "rank": 53,
+    "ranking": 53,
+    "country": "Iraq",
+    "crimeIndex": "48.4200",
+    "pop2021": "41179.3500"
+  },
+  {
+    "rank": 54,
+    "ranking": 54,
+    "country": "Sweden",
+    "crimeIndex": 48,
+    "pop2021": "10160.1690"
+  },
+  {
+    "rank": 55,
+    "ranking": 55,
+    "country": "Nicaragua",
+    "crimeIndex": "47.8900",
+    "pop2021": "6702.3850"
+  },
+  {
+    "rank": 56,
+    "ranking": 56,
+    "country": "United States",
+    "crimeIndex": "47.8100",
+    "pop2021": "332915.0730"
+  },
+  {
+    "rank": 57,
+    "ranking": 57,
+    "country": "Ukraine",
+    "crimeIndex": "47.4200",
+    "pop2021": "43466.8190"
+  },
+  {
+    "rank": 58,
+    "ranking": 58,
+    "country": "Ghana",
+    "crimeIndex": "46.9800",
+    "pop2021": "31732.1290"
+  },
+  {
+    "rank": 59,
+    "ranking": 59,
+    "country": "Egypt",
+    "crimeIndex": "46.8300",
+    "pop2021": "104258.3270"
+  },
+  {
+    "rank": 60,
+    "ranking": 60,
+    "country": "Lebanon",
+    "crimeIndex": "46.7700",
+    "pop2021": "6769.1460"
+  },
+  {
+    "rank": 61,
+    "ranking": 61,
+    "country": "Myanmar",
+    "crimeIndex": "46.5100",
+    "pop2021": "54806.0120"
+  },
+  {
+    "rank": 62,
+    "ranking": 62,
+    "country": "Moldova",
+    "crimeIndex": "46.3500",
+    "pop2021": "4024.0190"
+  },
+  {
+    "rank": 63,
+    "ranking": 63,
+    "country": "Vietnam",
+    "crimeIndex": "46.1900",
+    "pop2021": "98168.8330"
+  },
+  {
+    "rank": 64,
+    "ranking": 64,
+    "country": "United Kingdom",
+    "crimeIndex": "46.0700",
+    "pop2021": "68207.1160"
+  },
+  {
+    "rank": 65,
+    "ranking": 65,
+    "country": "Indonesia",
+    "crimeIndex": "45.9300",
+    "pop2021": "276361.7830"
+  },
+  {
+    "rank": 66,
+    "ranking": 66,
+    "country": "Greece",
+    "crimeIndex": "45.8500",
+    "pop2021": "10370.7440"
+  },
+  {
+    "rank": 67,
+    "ranking": 67,
+    "country": "Ireland",
+    "crimeIndex": "45.5100",
+    "pop2021": "4982.9070"
+  },
+  {
+    "rank": 68,
+    "ranking": 68,
+    "country": "Panama",
+    "crimeIndex": "45.1500",
+    "pop2021": "4381.5790"
+  },
+  {
+    "rank": 69,
+    "ranking": 69,
+    "country": "Italy",
+    "crimeIndex": "44.8500",
+    "pop2021": "60367.4770"
+  },
+  {
+    "rank": 70,
+    "ranking": 70,
+    "country": "Belgium",
+    "crimeIndex": "44.5800",
+    "pop2021": "11632.3260"
+  },
+  {
+    "rank": 71,
+    "ranking": 71,
+    "country": "India",
+    "crimeIndex": "44.4300",
+    "pop2021": "1393409.0380"
+  },
+  {
+    "rank": 72,
+    "ranking": 72,
+    "country": "Palestine",
+    "crimeIndex": "43.7400",
+    "pop2021": "5222.7480"
+  },
+  {
+    "rank": 73,
+    "ranking": 73,
+    "country": "Tunisia",
+    "crimeIndex": "43.6900",
+    "pop2021": "11935.7660"
+  },
+  {
+    "rank": 74,
+    "ranking": 74,
+    "country": "Zambia",
+    "crimeIndex": "43.6200",
+    "pop2021": "18920.6510"
+  },
+  {
+    "rank": 75,
+    "ranking": 75,
+    "country": "Australia",
+    "crimeIndex": "43.0300",
+    "pop2021": "25788.2150"
+  },
+  {
+    "rank": 76,
+    "ranking": 76,
+    "country": "Bosnia And Herzegovina",
+    "crimeIndex": "42.9900",
+    "pop2021": "3263.4660"
+  },
+  {
+    "rank": 77,
+    "ranking": 77,
+    "country": "New Zealand",
+    "crimeIndex": "42.8800",
+    "pop2021": "4860.6430"
+  },
+  {
+    "rank": 78,
+    "ranking": 78,
+    "country": "Albania",
+    "crimeIndex": "42.5300",
+    "pop2021": "2872.9330"
+  },
+  {
+    "rank": 79,
+    "ranking": 79,
+    "country": "Pakistan",
+    "crimeIndex": "42.5100",
+    "pop2021": "225199.9370"
+  },
+  {
+    "rank": 80,
+    "ranking": 80,
+    "country": "Philippines",
+    "crimeIndex": "42.4600",
+    "pop2021": "111046.9130"
+  },
+  {
+    "rank": 81,
+    "ranking": 81,
+    "country": "Sudan",
+    "crimeIndex": "42.3400",
+    "pop2021": "44909.3530"
+  },
+  {
+    "rank": 82,
+    "ranking": 82,
+    "country": "Canada",
+    "crimeIndex": "41.8900",
+    "pop2021": "38067.9030"
+  },
+  {
+    "rank": 83,
+    "ranking": 83,
+    "country": "Sri Lanka",
+    "crimeIndex": "41.3900",
+    "pop2021": "21497.3100"
+  },
+  {
+    "rank": 84,
+    "ranking": 84,
+    "country": "Montenegro",
+    "crimeIndex": "41.1800",
+    "pop2021": "628.0530"
+  },
+  {
+    "rank": 85,
+    "ranking": 85,
+    "country": "Malta",
+    "crimeIndex": "40.3900",
+    "pop2021": "442.7840"
+  },
+  {
+    "rank": 86,
+    "ranking": 86,
+    "country": "Russia",
+    "crimeIndex": "39.9900",
+    "pop2021": "145912.0250"
+  },
+  {
+    "rank": 87,
+    "ranking": 87,
+    "country": "Jordan",
+    "crimeIndex": "39.9600",
+    "pop2021": "10269.0210"
+  },
+  {
+    "rank": 88,
+    "ranking": 88,
+    "country": "Turkey",
+    "crimeIndex": "39.6200",
+    "pop2021": "85042.7380"
+  },
+  {
+    "rank": 89,
+    "ranking": 89,
+    "country": "Thailand",
+    "crimeIndex": "39.3500",
+    "pop2021": "69950.8500"
+  },
+  {
+    "rank": 90,
+    "ranking": 90,
+    "country": "North Macedonia",
+    "crimeIndex": "39.1200",
+    "pop2021": "2082.6580"
+  },
+  {
+    "rank": 91,
+    "ranking": 91,
+    "country": "Latvia",
+    "crimeIndex": "38.7700",
+    "pop2021": "1866.9420"
+  },
+  {
+    "rank": 92,
+    "ranking": 92,
+    "country": "Bulgaria",
+    "crimeIndex": "38.2100",
+    "pop2021": "6896.6630"
+  },
+  {
+    "rank": 93,
+    "ranking": 93,
+    "country": "Serbia",
+    "crimeIndex": "38.1000",
+    "pop2021": "8697.5500"
+  },
+  {
+    "rank": 94,
+    "ranking": 95,
+    "country": "Nepal",
+    "crimeIndex": "36.0100",
+    "pop2021": "29674.9200"
+  },
+  {
+    "rank": 95,
+    "ranking": 96,
+    "country": "Germany",
+    "crimeIndex": "35.7900",
+    "pop2021": "83900.4730"
+  },
+  {
+    "rank": 96,
+    "ranking": 97,
+    "country": "Hungary",
+    "crimeIndex": "34.3600",
+    "pop2021": "9634.1640"
+  },
+  {
+    "rank": 97,
+    "ranking": 98,
+    "country": "Luxembourg",
+    "crimeIndex": "34.1300",
+    "pop2021": "634.8140"
+  },
+  {
+    "rank": 98,
+    "ranking": 99,
+    "country": "Norway",
+    "crimeIndex": "33.7200",
+    "pop2021": "5465.6300"
+  },
+  {
+    "rank": 99,
+    "ranking": 101,
+    "country": "Uzbekistan",
+    "crimeIndex": "33.4200",
+    "pop2021": "33935.7630"
+  },
+  {
+    "rank": 100,
+    "ranking": 100,
+    "country": "Kuwait",
+    "crimeIndex": "33.4200",
+    "pop2021": "4328.5500"
+  },
+  {
+    "rank": 101,
+    "ranking": 102,
+    "country": "Lithuania",
+    "crimeIndex": "33.4200",
+    "pop2021": "2689.8620"
+  },
+  {
+    "rank": 102,
+    "ranking": 103,
+    "country": "Spain",
+    "crimeIndex": "33.3200",
+    "pop2021": "46745.2160"
+  },
+  {
+    "rank": 103,
+    "ranking": 104,
+    "country": "Azerbaijan",
+    "crimeIndex": "32.0200",
+    "pop2021": "10223.3420"
+  },
+  {
+    "rank": 104,
+    "ranking": 105,
+    "country": "Israel",
+    "crimeIndex": "31.4700",
+    "pop2021": "8789.7740"
+  },
+  {
+    "rank": 105,
+    "ranking": 106,
+    "country": "Cyprus",
+    "crimeIndex": "31.2800",
+    "pop2021": "1215.5840"
+  },
+  {
+    "rank": 106,
+    "ranking": 107,
+    "country": "Poland",
+    "crimeIndex": "30.5000",
+    "pop2021": "37797.0050"
+  },
+  {
+    "rank": 107,
+    "ranking": 108,
+    "country": "Slovakia",
+    "crimeIndex": "30.3700",
+    "pop2021": "5460.7210"
+  },
+  {
+    "rank": 108,
+    "ranking": 109,
+    "country": "China",
+    "crimeIndex": "30.1400",
+    "pop2021": "1444216.1070"
+  },
+  {
+    "rank": 109,
+    "ranking": 110,
+    "country": "Portugal",
+    "crimeIndex": "29.9100",
+    "pop2021": "10167.9250"
+  },
+  {
+    "rank": 110,
+    "ranking": 111,
+    "country": "Brunei",
+    "crimeIndex": 29,
+    "pop2021": "441.5320"
+  },
+  {
+    "rank": 111,
+    "ranking": 112,
+    "country": "Cuba",
+    "crimeIndex": "28.3300",
+    "pop2021": "11317.5050"
+  },
+  {
+    "rank": 112,
+    "ranking": 113,
+    "country": "Romania",
+    "crimeIndex": "28.3000",
+    "pop2021": "19127.7740"
+  },
+  {
+    "rank": 113,
+    "ranking": 114,
+    "country": "Singapore",
+    "crimeIndex": "27.9600",
+    "pop2021": "5896.6860"
+  },
+  {
+    "rank": 114,
+    "ranking": 115,
+    "country": "Finland",
+    "crimeIndex": "27.5900",
+    "pop2021": "5548.3600"
+  },
+  {
+    "rank": 115,
+    "ranking": 116,
+    "country": "Netherlands",
+    "crimeIndex": "27.1600",
+    "pop2021": "17173.0990"
+  },
+  {
+    "rank": 116,
+    "ranking": 117,
+    "country": "South Korea",
+    "crimeIndex": "26.6800",
+    "pop2021": "51305.1860"
+  },
+  {
+    "rank": 117,
+    "ranking": 118,
+    "country": "Denmark",
+    "crimeIndex": "26.2200",
+    "pop2021": "5813.2980"
+  },
+  {
+    "rank": 118,
+    "ranking": 119,
+    "country": "Bahrain",
+    "crimeIndex": "25.6400",
+    "pop2021": "1748.2960"
+  },
+  {
+    "rank": 119,
+    "ranking": 120,
+    "country": "Austria",
+    "crimeIndex": "25.5400",
+    "pop2021": "9043.0700"
+  },
+  {
+    "rank": 120,
+    "ranking": 121,
+    "country": "Czech Republic",
+    "crimeIndex": "25.5200",
+    "pop2021": "10724.5550"
+  },
+  {
+    "rank": 121,
+    "ranking": 122,
+    "country": "Saudi Arabia",
+    "crimeIndex": "25.2300",
+    "pop2021": "35340.6830"
+  },
+  {
+    "rank": 122,
+    "ranking": 123,
+    "country": "Rwanda",
+    "crimeIndex": "24.8900",
+    "pop2021": "13276.5130"
+  },
+  {
+    "rank": 123,
+    "ranking": 124,
+    "country": "Croatia",
+    "crimeIndex": "24.5900",
+    "pop2021": "4081.6510"
+  },
+  {
+    "rank": 124,
+    "ranking": 125,
+    "country": "Iceland",
+    "crimeIndex": "23.7500",
+    "pop2021": "343.3530"
+  },
+  {
+    "rank": 125,
+    "ranking": 126,
+    "country": "Estonia",
+    "crimeIndex": "23.7100",
+    "pop2021": "1325.1850"
+  },
+  {
+    "rank": 126,
+    "ranking": 127,
+    "country": "Georgia",
+    "crimeIndex": "23.3800",
+    "pop2021": "3979.7650"
+  },
+  {
+    "rank": 127,
+    "ranking": 128,
+    "country": "Armenia",
+    "crimeIndex": "22.7900",
+    "pop2021": "2968.1270"
+  },
+  {
+    "rank": 128,
+    "ranking": 129,
+    "country": "Slovenia",
+    "crimeIndex": "22.2800",
+    "pop2021": "2078.7240"
+  },
+  {
+    "rank": 129,
+    "ranking": 130,
+    "country": "Japan",
+    "crimeIndex": "22.1900",
+    "pop2021": "126050.8040"
+  },
+  {
+    "rank": 130,
+    "ranking": 131,
+    "country": "Hong Kong",
+    "crimeIndex": 22,
+    "pop2021": "7552.8100"
+  },
+  {
+    "rank": 131,
+    "ranking": 132,
+    "country": "Switzerland",
+    "crimeIndex": "21.6200",
+    "pop2021": "8715.4940"
+  },
+  {
+    "rank": 132,
+    "ranking": 133,
+    "country": "Oman",
+    "crimeIndex": "20.3400",
+    "pop2021": "5223.3750"
+  },
+  {
+    "rank": 133,
+    "ranking": 134,
+    "country": "Isle Of Man",
+    "crimeIndex": "19.2500",
+    "pop2021": "85.4100"
+  },
+  {
+    "rank": 134,
+    "ranking": 135,
+    "country": "Taiwan",
+    "crimeIndex": "15.4600",
+    "pop2021": "23855.0100"
+  },
+  {
+    "rank": 135,
+    "ranking": 136,
+    "country": "United Arab Emirates",
+    "crimeIndex": "15.2300",
+    "pop2021": "9991.0890"
+  },
+  {
+    "rank": 136,
+    "ranking": 137,
+    "country": "Qatar",
+    "crimeIndex": "12.1300",
+    "pop2021": "2930.5280"
+  }
+]
