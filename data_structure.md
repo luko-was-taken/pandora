@@ -32,6 +32,8 @@ relation_pays = {
         "profil":profilPays,
     },
     "affaires":["nomAffaire1",...],
-    "leaks":["nomLeak1", ...]
+    "leaks":["nomLeak1", ...],
+    "nombre_total_de_relations_directionnelles":Int,
+    "nombre_de_relations_directionnelles":[{"type_relation1":Int}, {"type_relation2":Int}...]
 }
 ```
