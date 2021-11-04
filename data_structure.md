@@ -1,7 +1,7 @@
 # Relations entre les personnes (physiques, morales...)
 ## personne émettrice -[lien]> personne cible
 ```json
-relation_personne = {
+"relation_personne" : {
     "type_lien":String,
     "emetteur":{
         "nom":"Nom+Prénom",
@@ -20,7 +20,7 @@ relation_personne = {
 # Relations entre les pays 
 ## pays émetteur -[lien]> pays récepteur
 ```json
-relation_pays = {
+"relation_pays" : {
     "emetteur":{
         "code":codePays,
         "nom":nomPays,
